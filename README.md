@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **software architecture, Java ecosystem, soft skills, ...**
 
-- 💬 Ask me about **Java, Quarkus, Spring, Grails, Groovy, databases, Alexa development**
+- 💬 Ask me about **Java, Quarkus, Spring, Grails, Groovy, databases, Alexa development, ...**
 
 - 📫 How to reach me **crilopfer@gmail.com**
 
