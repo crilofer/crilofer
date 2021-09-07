@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **crilopfer@gmail.com**
 
-- 📄 Know about my experiences 👉[here](https://www.linkedin.com/in/crilopfer/)👈
+- 📄 Know about my experiences 👉[here](https://crilofer.github.io)👈
 
 - ⚡ Fun fact **you could find me under the sea 🤿**
 
