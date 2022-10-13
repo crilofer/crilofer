@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/crilofer" target="blank"><img src="https://img.shields.io/twitter/follow/crilofer?logo=twitter&style=for-the-badge" alt="crilofer" /></a> </p>
 
-- 🔭 I’m currently working on [Tymit as Engineering Lead](https://tymit.com/)
+- 🔭 I’m currently working on [Baraka as Director of Engineering](https://getbaraka.com/)
 
 - 👯 I’m always looking to collaborate on **open source projects, Alexa skills development**
 
