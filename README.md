@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 
-<p align="left"> <a href="https://twitter.com/crilofer" target="blank"><img src="https://img.shields.io/twitter/follow/crilofer?logo=twitter&style=for-the-badge" alt="crilofer" /></a> </p>
+<p align="left"> <a href="https://x.com/crilofer" target="blank"><img src="https://img.shields.io/twitter/follow/crilofer?style=social" alt="crilofer" /></a> </p>
 
 - 🔭 I’m currently working on [Tymit as Head of AI Engineering](https://tymit.com/)
 
